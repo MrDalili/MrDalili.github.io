@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Camelopard Ning&#39;s Blog�</title>
   
-  
+  <subtitle>Camelopard Ning</subtitle>
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Camelopard Ning</name>
     
   </author>
   
